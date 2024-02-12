@@ -1,4 +1,4 @@
-package com.example.trip_together
+package com.dariawiencierz.trip_together
 
 import io.flutter.embedding.android.FlutterActivity
 
