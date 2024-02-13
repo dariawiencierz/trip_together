@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "435099489700",
+    "project_id": "trip-together-0102",
+    "storage_bucket": "trip-together-0102.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435099489700:android:561d420851d440f09b5d31",
+        "android_client_info": {
+          "package_name": "com.dariawiencierz.trip_together"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6Yb5qiHMQKcUd_IM1eF_LRrcj5M6urCw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
