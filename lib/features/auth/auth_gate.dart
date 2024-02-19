@@ -17,9 +17,8 @@ class AuthGate extends StatelessWidget {
             EmailProviderConfiguration(),
           ]);
         }
-        return const HomePage(
-          title: '',
-          // currentUser: snapshot.data!,
+        return HomePage(
+          currentUser: snapshot.data!,
         );
       },
     );
